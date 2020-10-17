@@ -1,7 +1,5 @@
 /****************************************************************
  * Sensors - Setup and Test
- * To be used with ArduFarmBot tutorial
- * MJRoBot 21Aug16
  ****************************************************************/
 // Include DHT Library
 #include <DHT.h>
